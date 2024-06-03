@@ -167,3 +167,11 @@ footer {
 }
 
 /* Fim do Modal */
+
+/* Hover */
+
+.rps--select:hover {
+    transition: 0.5s;
+    box-shadow: inset 0px 8px 0px 0px #BABFD4,
+        0px 0px 0px 22px hsla(0, 0%, 100%, 0.1);
+}
